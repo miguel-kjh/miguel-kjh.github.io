@@ -1,2 +1,2 @@
 # miguel-kjh.github.io
-My personal website
+This repo contains my personal website, which is constantly changing.
